@@ -6,15 +6,18 @@ const CommonStyles = {
     backgroundColor: '#F5F5F9',
   },
   scrollContainer: {
+    borderTopWidth:0,
+    borderColor:'red',
     backgroundColor: '#F5F5F9',
     paddingBottom: 15,
-    marginTop: 64,
+    marginTop: 0,
+
   },
   // ‘支付宝’ 首页九宫格
   scrollContainerApp: {
     backgroundColor: '#F5F5F9',
     paddingBottom: 15,
-    marginTop: -20,
+    marginTop: 0,
   },
   // IOS 下每个 Tab 的根页面会占用系统状态栏的高度（20px）
   // Andriod 未测

@@ -22,9 +22,18 @@ const AppListStyles = {
     borderBottomWidth: 1,
     borderColor: '#E6E6E6',
     backgroundColor: '#fff',
-    alignItems: 'center',
+
     paddingTop: 15,
   },
+    appColMore: {
+        flex: 1,
+        borderRightWidth: 1,
+        borderBottomWidth: 1,
+        borderColor: '#E6E6E6',
+        backgroundColor: '#fff',
+
+        paddingTop: 0,
+    },
   appItemImageIcon: {
     width: 24,
     height: 24,
@@ -39,7 +48,10 @@ const AppListStyles = {
     fontSize: 12
   },
   appItemTextMore: {
-    marginTop: 8,
+
+
+
+    textAlign:'center',
     fontSize: 18,
     fontWeight: 'bold',
     color: '#ccc',

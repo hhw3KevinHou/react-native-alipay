@@ -6,7 +6,8 @@ const QuickEntryStyles = {
     backgroundColor: '#3F454F',
     height: 100,
     paddingTop: 0,
-    marginTop: 64,
+    marginTop: 0,
+
   },
   quickEntryItem: {
     padding: 10,
