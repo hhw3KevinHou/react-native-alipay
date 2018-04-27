@@ -12,7 +12,7 @@
 
 # UI
 
-<img src="Screenshot.png" width="320" alt="AlipayAppUI">
+<img src="screenshot-ios.png" width="320" height="420" alt="AlipayAppUI">
 
 # Install
 
@@ -34,9 +34,9 @@ $ login Expo -> Explore -> input exp://IP address in same LAN:19000
 
 ---
 
-部分图标来自 [iconfont](http://www.iconfont.cn/)，相关版权归支付宝公司所有。
+Some icons are from [iconfont](http://www.iconfont.cn/)，Copyright belongs to Alipay。
 
 # License
-本项目基于 MIT 协议发布
+MIT License
 
-MIT: [http://rem.mit-license.org](http://rem.mit-license.org/), 详见 [LICENSE](/LICENSE) 文件
+MIT: [http://rem.mit-license.org](http://rem.mit-license.org/), see [LICENSE](/LICENSE)
